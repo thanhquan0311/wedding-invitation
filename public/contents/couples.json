@@ -1,26 +1,26 @@
 {
 	"couples": [
 		{
-			"name": "Fulan bin Fulan",
+			"name": "HUỲNH NGUYỄN THANH QUAN",
 			"sosmed": [
 				{ "icon": "fab fa-instagram", "link": "http://fake.com" },
 				{ "icon": "fab fa-facebook", "link": "http://fake.com" },
 				{ "icon": "fab fa-twitter", "link": "http://fake.com" }
 			],
-			"parents": ["Fulan", "Fulanah"],
+			"parents": ["HUỲNH ĐÀM", "NGUYỄN THỊ KIM HẠNH"],
 			"thumb": "/couples/couple-male.jpg",
-			"address": "Komplek Setia Budi Sentosa Blok 12A Nomor 6 Gang Serunai Asri - Brebes, Jawa Timur"
+			"address": "Quảng Ngãi"
 		},
 		{
-			"name": "Fulanah binti Fulan",
+			"name": "NGUYỄN XUÂN MAI",
 			"sosmed": [
 				{ "icon": "fab fa-instagram", "link": "http://fake.com" },
 				{ "icon": "fab fa-facebook", "link": "http://fake.com" },
 				{ "icon": "fab fa-twitter", "link": "http://fake.com" }
 			],
-			"parents": ["Fulan", "Fulanah"],
+			"parents": ["NGUYỄN TRỌNG TƯỜNG", "NGUYỄN THỊ PHƯỢNG"],
 			"thumb": "/couples/couple-female.jpg",
-			"address": "Komplek Setia Budi Sentosa Blok 12A Nomor 6 Gang Serunai Asri - Brebes, Jawa Timur"
+			"address": "An Giang"
 		}
 	]
 }

@@ -2,7 +2,7 @@
   <section class="w-full bg-gradient-to-b from-gray-800 to-gray-700">
     <wave class="fill-white" />
     <section class="container-section">
-      <HeaderSection text-color="text-gray-100" title="Mempelai Pria dan Wanita" subtitle="Ya Allah dengan mengharap ridha dan karunia-Mu, Izinkanlah kami mempersatukan dua insan dari dua keluarga ini agar menjadi pasangan yang selalu mendapakan rahmat-Mu" />
+      <HeaderSection text-color="text-gray-100" title="Chú rể và Cô dâu" subtitle="Lời giới thiệu cô dâu chú rể" />
       <Profile></Profile>
     </section>
   </section>

@@ -1,6 +1,6 @@
 <template>
   <div class="px-2 py-4">
-    <p class="mx-auto text-center text-sm text-gray-100 w-10/12 mb-2">Menuju acara resepsi kami</p>
+    <p class="mx-auto text-center text-sm text-gray-100 w-10/12 mb-2">Sự kiện sẽ diễn ra sau</p>
     <section class="flex justify-center gap-3 ">
       <template v-for="(value, name, index) in countdown" :key="index">
         <div 
@@ -39,12 +39,12 @@ const createTimer = (target, container, cb) => {
       
      if (days === 0 && hours === 0 && minutes === 0 && seconds === 0 ) cb()
    } else {
-     container.value = { days: 0, hours: 0, minutes: 0, seconds: 0 }
+     container.value = { Ngày: 0, Giờ: 0, Phút: 0, Giây: 0 }
    } 
 }
 
 const timer = setInterval(() => {
-  createTimer(new Date('2022-05-23 08:30').getTime(), countdown, () => {
+  createTimer(new Date('2023-10-08 12:00').getTime(), countdown, () => {
     clearInterval(timer)
   })
 }, 1000)

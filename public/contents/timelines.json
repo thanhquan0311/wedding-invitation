@@ -1,26 +1,25 @@
 {
 	"timelines": [
 		{
-			"title": "Resepsi",
-			"date": "Sabtu, 22 Mei 2022",
-			"time": "08:30 WIB - 09:30 WIB",
-			"location": "Mesjid Jami An Nuur",
-			"address": "Jl. Raden Agung Pangestu KM. 12 Kelurahan Cidro Laras Kecamatan Candi Putih - Brebes, Jawa Timur"
+			"title": "Lễ cưới nhà nữ",
+			"date": "Chủ nhật, 06/08/2023 nhằm ngày 20/06/2023",
+			"time": "Vào lúc hh:mm",
+			"location": "Tại tư gia",
+			"address": "địa chỉ An Giang"
 		},
 		{
-			"title": "Akad Nikah",
-			"date": "Ahad, 21 Mei 2022",
-			"time": "08:00 WIB - 16:30 WIB",
-			"location": "Rumah Mempelai Pria",
-			"address": "Jl. Raden Agung Pangestu KM. 12 Kelurahan Cidro Laras Kecamatan Candi Putih - Brebes, Jawa Timur"
-
+			"title": "Lễ cưới nhà nam",
+			"date": "Chủ nhật, 08/10/2023 nhằm ngày 24/08/2023",
+			"time": "Vào lúc hh:mm",
+			"location": "Tại tư gia",
+			"address": "địa chỉ Hồ Chí Minh"
 		},
 		{
-			"title": "Siraman",
-			"date": "Jum'at, 20 Mei 2022",
-			"time": "08:00 - 12:00 WIB",
-			"location": "Rumah Mempelai Pria",	
-			"address": "Jl. Raden Agung Pangestu KM. 12 Kelurahan Cidro Laras Kecamatan Candi Putih - Brebes, Jawa Timur"
+			"title": "Tiệc cưới",
+			"date": "Chủ nhật, 08/10/2023 nhằm ngày 24/08/2023",
+			"time": "Vào lúc hh:mm",
+			"location": "Nhà hàng ...",
+			"address": "địa chỉ Hồ Chí Minh"
 		}
 	]
 }

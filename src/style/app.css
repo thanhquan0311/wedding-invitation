@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@300;500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600&display=swap');
 
 p,
@@ -25,7 +25,8 @@ button {
 }
 
 .tangerine-font {
-	font-family: 'Tangerine', cursive;
+	/* font-family: 'Tangerine', cursive; */
+	font-family: 'Open Sans', cursive;
 }
 
 .open-sans-font {

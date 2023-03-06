@@ -9,7 +9,7 @@
 <template>
   <section class="w-full bg-gradient-to-b from-gray-700 to-gray-600">
     <section class="container-section pb-12">
-      <HeaderSection text-color="text-gray-100" subtitle="Dengan tidak mengurangi rasa hormat, kami mengajak para tamu undangan agar bisa berhadir pada serangkaian acara kami" title="Runtutan Acara"></HeaderSection>
+      <HeaderSection text-color="text-gray-100" subtitle="Trân trọng kính mời đến dự buổi tiệc chung vui cùng Gia đình chúng tôi" title="Thời gian"></HeaderSection>
       <Card>
         <template v-slot:body>
           <div class="bg-gray-900 px-6 py-8 text-center text-sm font-medium" v-for="(timeline, index) in timelines" :key="index">
@@ -21,7 +21,7 @@
               <p class="text-gray-200">{{ timeline.address }}</p>
               <a class="btn" href="">
                 <i class="fa-solid fa-map"></i>
-                Lihat Peta
+                Bản đồ
               </a>
               <decoration class="w-2/12 mx-auto my-2 fill-amber-500 rotate-180"></decoration>
             </section>
@@ -32,13 +32,13 @@
             <Countdown></Countdown>
             <!-- Button to Guest Book -->
             <div class="px-6 pt-5 pb-8 text-center">
-              <p class="text-sm text-gray-100">Konfirmasi kehadiran anda pada buku tamu</p>
+              <p class="text-sm text-gray-100">Xác nhận tham dự sự kiện</p>
               <button @click="goToGuestBook" class="btn">
                 <i class="fa-solid fa-clipboard-check"></i>
-                Konfirmasi
+                Xác nhận
               </button>
             </div>
-            <img src="@/assets/images/couples.png" alt="">
+            <img src="@/assets/images/happy_14.jpg" alt="">
           </section>
         </template>
       </Card>

@@ -1,12 +1,12 @@
 <template>
   <section class="w-full bg-slate-100 pt-12 pb-5">
     <section class="section-container">
-      <HeaderSection title="Amplop Digital" subtitle=" Doa restu anda merupakan karunia yang sangat berarti bagi kami dan jika memberi adalah ungkapan tanda terima kasih anda, anda dapat memberi kado secara cashless"></HeaderSection>
+      <HeaderSection title="Phong bì kỹ thuật số" subtitle="Lời chúc của bạn là một món quà có ý nghĩa rất lớn đối với chúng tôi và nếu việc tặng quà là thể hiện lòng biết ơn của bạn, bạn có thể tặng quà không dùng tiền mặt"></HeaderSection>
       <section class="">
         <template v-for="(wallet, x) in wallets" :key="x">
           <div data-aos="zoom-in" class="w-8/12 text-center border border-gray-200 mx-auto p-5 mb-5 bg-gray-100 shadow-lg rounded-tl-3xl rounded-br-3xl">
             <img :src="wallet.thumb" :alt="wallet.platform" class="w-5/12 mx-auto mb-3">
-            <p class="text-xs">Silahkan untuk melakukan transfer melalui {{ wallet.prefix }} dibawah ini a.n. {{ wallet.name }}</p>
+            <p class="text-xs">Vui lòng chuyển khoản qua {{ wallet.prefix }} chi nhánh ... {{ wallet.name }}</p>
             <Clipboard :content="wallet.number"></Clipboard>
           </div>
         </template>
@@ -24,16 +24,16 @@ const wallets = [
   {
     thumb: 'wallets/mandiri.png',
     platform: 'Mandiri',
-    name: 'Fulanah',
-    number: '0004389203902',
-    prefix: 'rekening'
+    name: 'Tên tài khoản',
+    number: 'STK',
+    prefix: 'Ngân hàng ...'
   },
   {
     thumb: 'wallets/mandiri.png',
     platform: 'Mandiri',
-    name: 'Fulanah',
-    number: '8843439001940',
-    prefix: 'rekening'
+    name: 'Tên tài khoản',
+    number: 'STK',
+    prefix: 'Ngân hàng ...'
   }
 ]
 </script>
