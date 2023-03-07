@@ -1,0 +1,26 @@
+{
+	"couples": [
+		{
+			"name": "HUỲNH NGUYỄN THANH QUAN",
+			"sosmed": [
+				{ "icon": "fab fa-instagram", "link": "http://fake.com" },
+				{ "icon": "fab fa-facebook", "link": "http://fake.com" },
+				{ "icon": "fab fa-twitter", "link": "http://fake.com" }
+			],
+			"parents": ["HUỲNH ĐÀM", "NGUYỄN THỊ KIM HẠNH"],
+			"thumb": "/couples/couple-male.jpg",
+			"address": "Quảng Ngãi"
+		},
+		{
+			"name": "NGUYỄN XUÂN MAI",
+			"sosmed": [
+				{ "icon": "fab fa-instagram", "link": "http://fake.com" },
+				{ "icon": "fab fa-facebook", "link": "http://fake.com" },
+				{ "icon": "fab fa-twitter", "link": "http://fake.com" }
+			],
+			"parents": ["NGUYỄN TRỌNG TƯỜNG", "NGUYỄN THỊ PHƯỢNG"],
+			"thumb": "/couples/couple-female.jpg",
+			"address": "An Giang"
+		}
+	]
+}
