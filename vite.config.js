@@ -5,7 +5,7 @@ import SVGLoader from 'vite-svg-loader'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/wedding-invitation/',
+  base: '/wedding-invitation-test/',
   plugins: [vue(), SVGLoader()],
   define: {
     'process.env': {}
