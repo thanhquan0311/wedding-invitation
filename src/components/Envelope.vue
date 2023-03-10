@@ -22,18 +22,18 @@ import Clipboard from '@/components/Clipboard.vue'
 
 const wallets = [
   {
-    thumb: 'wallets/mandiri.png',
-    platform: 'Mandiri',
-    name: 'Tên tài khoản',
-    number: 'STK',
-    prefix: 'Ngân hàng ...'
+    thumb: 'wallets/couple-female.jpg',
+    platform: 'Mai',
+    name: 'NGUYEN XUAN MAI',
+    number: '193439958',
+    prefix: 'VPBank'
   },
   {
-    thumb: 'wallets/mandiri.png',
-    platform: 'Mandiri',
-    name: 'Tên tài khoản',
-    number: 'STK',
-    prefix: 'Ngân hàng ...'
+    thumb: 'wallets/couple-male.jpg',
+    platform: 'Quan',
+    name: 'HUYNH NGUYEN THANH QUAN',
+    number: '168704070024911',
+    prefix: 'HDBank'
   }
 ]
 </script>
