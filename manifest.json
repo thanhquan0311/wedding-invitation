@@ -1,10 +1,10 @@
 {
-  "short_name": "Diundang",
-  "name": "Diundang - Digital Wedding Invitaion",
+  "short_name": "QuanMai",
+  "name": "QuanMai - Digital Wedding Invitaion",
   "theme_color": "#fff",
   "background_color": "#103AB9",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": ".",
+  "scope": "/",
   "start_url": "./"
 }
