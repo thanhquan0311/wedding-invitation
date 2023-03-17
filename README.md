@@ -1,36 +1,29 @@
-<h3 align="center">QuanMai</h3>
-<p align="center">QuanMai - Digital Wedding Invitation</p>
-<img src="./src/assets/banner.png" />
+# wedding-quan-mai
 
-### Languages and Tools
-- Vue JS 3
-- Tailwind
-- Animate CSS
-- Animate On Scroll
-- Vue Router
-- Font Awesome 6
-- Google Fonts Tangerine
-- Google Fonts Open Sans
-- Vue Viewer
-- Vue 3 Video Player
-- Vite JS
-- Git 
-- Github
-- Vercel
-- Termux
-- Neovim
+This template should help get you started developing with Vue 3 in Vite.
 
-### Features
-- [x] Countdown
-- [x] Backsound
-- [x] Timelines event
-- [x] Map location
-- [x] Quote
-- [x] Love story
-- [x] Guest book with Google spreadsheet
-- [x] Digital envelope
-- [x] Support Open Graph for facebook, twitter, and Whatsapp
-- [x] Gallery
-- [x] Videos
-- [x] Invited guests
-- [x] Couple profiles with picture
+## Recommended IDE Setup
+
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
