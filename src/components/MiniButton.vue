@@ -6,7 +6,7 @@
   width: 40px;
 } 
 
-</style>
+</style>>
 
 <template>
   <audio ref="audioEl" autoplay>

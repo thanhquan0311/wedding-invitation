@@ -38,7 +38,7 @@
                 Xác nhận
               </button>
             </div>
-            <img src="@/assets/images/happy_14.jpg" alt="">
+            <img src="@/assets/images/couples.png" alt="">
           </section>
         </template>
       </Card>

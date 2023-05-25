@@ -32,7 +32,7 @@ input, textarea, select, option {
         <!-- Guest Name -->
         <div class="input-wrapper" data-aos="zoom-in">
           <label for="GuestName">Họ Tên khách mời</label>
-          <input v-model="GuestName" placeholder="Vui lòng nhập họ tên" name="GuestName" id="GuestName" type="text" required>
+          <input v-model="GuestName" placeholder="Nama lengkap anda" name="GuestName" id="GuestName" type="text" required>
         </div>
         <!-- Guest Status -->
         <div class="input-wrapper" data-aos="zoom-in">
@@ -45,7 +45,7 @@ input, textarea, select, option {
         <!-- Guest Message -->
         <div class="input-wrapper" data-aos="zoom-in">
           <label for="GuestMessage">Tin nhắn</label>
-          <textarea placeholder="Viết lời nhắn của bạn ở đây" v-model="GuestMessage" name="GuestMessage" id="GuestMessage" cols="30" rows="5" required></textarea>
+          <textarea placeholder="Tuliskan pesan anda disini" v-model="GuestMessage" name="GuestMessage" id="GuestMessage" cols="30" rows="5" required></textarea>
         </div>
         {{ query }}
         <!-- Submit -->
@@ -62,7 +62,7 @@ input, textarea, select, option {
       <!--MessagesBox :messages="messages" -->
       <!-- Frames -->
       <div class="w-full text-center pb-12 mt-12">
-        <p class="text-sm text-amber-600 font-medium">QUAN & MAI &copy; 2023</p>
+        <p class="text-sm text-amber-600 font-medium">Diundang &copy; 2022</p>
       </div>
     </section>
   </section>

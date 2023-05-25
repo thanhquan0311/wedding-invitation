@@ -2,7 +2,7 @@
   <section class="w-full mb-12">
     <wave class="fill-gray-800"></wave>
     <section class="container-section">
-      <HeaderSection title="Chuyện tình yêu"></HeaderSection>
+      <HeaderSection title="Pandangan Pertama"></HeaderSection>
       <Card title="Kisah kami berawal dari">
         <template v-slot:body>
           <p class="text-sm p-6 text-justify">
@@ -14,7 +14,7 @@
           </p>
         </template>
         <template v-slot:footer>
-          <img src="@/assets/images/happy_14.jpg" class="w-full" alt="">
+          <img src="@/assets/images/couples.png" class="w-full" alt="">
         </template>
       </Card>
     </section>

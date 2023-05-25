@@ -5,9 +5,11 @@
         class="animate__animated animate__fadeInUpBig text-gray-100 text-center bg-gray-800 bg-opacity-50 backdrop-blur-sm rounded-t-3xl px-6 py-10">
         <h1 class="tangerine-font text-title font-bold">{{ couples.join(' & ') }}</h1>
         <decoration class="fill-amber-400 mx-auto w-3/12 mb-3"></decoration>
-        <p class="font-medium">Thiệp mời đám cưới</p>
-        <!-- <p class="font-medium my-2 text-lg">{{ query.to }}</p> -->
-        <small>Trân trọng Kính mời quý vị đến dự buổi tiệc chung vui cùng gia đình chúng tôi</small>
+        <!-- <p class="text-sm"> -->
+          <p class="font-medium">Thiệp mời đám cưới</p>
+          <!-- <p class="font-medium my-2 text-lg">{{ query.to }}</p> -->
+          <small>Trân trọng Kính mời quý vị đến dự buổi tiệc chung vui cùng gia đình chúng tôi</small>
+        <!-- </p> -->
       </div>
     </section>
   </section>

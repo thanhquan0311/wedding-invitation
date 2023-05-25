@@ -39,7 +39,7 @@ const createTimer = (target, container, cb) => {
       
      if (days === 0 && hours === 0 && minutes === 0 && seconds === 0 ) cb()
    } else {
-     container.value = { Ngày: 0, Giờ: 0, Phút: 0, Giây: 0 }
+     container.value = { days: 0, hours: 0, minutes: 0, seconds: 0 }
    } 
 }
 

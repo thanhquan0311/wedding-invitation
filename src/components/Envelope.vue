@@ -21,7 +21,7 @@ import HeaderSection from '@/components/HeaderSection.vue'
 import Clipboard from '@/components/Clipboard.vue'
 
 const wallets = [
-  {
+{
     thumb: 'wallets/couple-female.jpg',
     platform: 'Mai',
     name: 'NGUYEN XUAN MAI',

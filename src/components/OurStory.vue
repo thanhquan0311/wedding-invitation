@@ -1,7 +1,7 @@
 <template>
   <section class="w-full">
     <section class="container-section">
-      <HeaderSection title="Câu chuyện" />
+      <HeaderSection title="Kisah Cinta Kami" />
       <div class="mt-6">
         <Card>
           <template v-slot:body>
@@ -16,7 +16,7 @@
               </div>
             </template>
           </template>
-          <template v-slot:footer><img src="@/assets/images/happy_14.jpg" alt=""></template>
+          <template v-slot:footer><img src="@/assets/images/couples.png" alt=""></template>
         </Card>
       </div>
     </section>
